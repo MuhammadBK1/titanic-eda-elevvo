@@ -1,5 +1,8 @@
 Titanic EDA – Elevvo Internship Task
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadBK1/titanic-eda-elevvo/blob/main/titanic_eda.ipynb)
+
+
 This repository contains my **Exploratory Data Analysis (EDA)** on the classic [Titanic Dataset](https://www.kaggle.com/c/titanic) as part of my **internship with Elevvo**.
 
 
